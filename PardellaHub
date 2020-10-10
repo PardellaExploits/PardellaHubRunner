@@ -17,3 +17,7 @@ end
 if game.PlaceId == 292439477 then
 loadstring(game:HttpGet('https://raw.githubusercontent.com/PardellaExploits/PardellaHub/main/PardellaHubPhantomForces'))()
 end
+
+if game.PlaceId == 142823291 then
+loadstring(game:HttpGet('https://raw.githubusercontent.com/PardellaExploits/PardellaHub/main/PardellaHubMurderMystery'))()
+end
