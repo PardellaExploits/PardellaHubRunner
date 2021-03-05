@@ -1,37 +1,9 @@
-if game.PlaceId == 286090429 then
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/PardellaExploits/PardellaHub/main/PardellaHubArsenal'))()
-end
-
 if game.PlaceId == 155615604 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/PardellaExploits/PardellaHub/main/PardellaHubPrisonLife'))()
 end
 
-if game.PlaceId == 1450425732 then
-loadstring(game:HttpGet('https://raw.githubusercontent.com/PardellaExploits/PardellaHub/main/PardellaHubScubaDiving'))()
-end
-
-if game.PlaceId == 662417684 then
-loadstring(game:HttpGet('https://raw.githubusercontent.com/PardellaExploits/PardellaHub/main/PardellaHubLuckyBlocks'))()
-end
-
-if game.PlaceId == 292439477 then
-loadstring(game:HttpGet('https://raw.githubusercontent.com/PardellaExploits/PardellaHub/main/PardellaHubPhantomForces'))()
-end
-
-if game.PlaceId == 142823291 then
-loadstring(game:HttpGet('https://raw.githubusercontent.com/PardellaExploits/PardellaHub/main/PardellaHubMurderMystery'))()
-end
-
-if game.PlaceId == 1962086868 then
-loadstring(game:HttpGet('https://raw.githubusercontent.com/PardellaExploits/PardellaHub/main/PardellaHubTowerOfHell'))()
-end
-
 if game.PlaceId == 2041312716 then
 loadstring(game:HttpGet('https://raw.githubusercontent.com/PardellaExploits/PardellaHub/main/PardellaHubRagdollEngine'))()
-end
-
-if game.PlaceId == 189707 then
-loadstring(game:HttpGet('https://raw.githubusercontent.com/PardellaExploits/PardellaHub/main/PardellaHubNaturalDisasterSurvival'))()
 end
 
 if game.PlaceId == 2788229376 then
